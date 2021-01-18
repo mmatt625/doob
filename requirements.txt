@@ -40,7 +40,7 @@ dblpy == 0.4.0
 discord_timers == 0.1.0
 
 # C:\Users\matt\Desktop\doob\lib\cogs\meta.py: 4
-psutil == 5.7.2
+psutil == 5.8.0
 
 # C:\Users\matt\Desktop\doob\lib\bot\__init__.py: 25
 # C:\Users\matt\Desktop\doob\lib\cogs\bio.py: 15
